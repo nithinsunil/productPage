@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "name": "Apple iPhone 13",
+      "description": "The latest smartphone from Apple with A15 Bionic chip, 5G, and Pro camera system",
+      "price": 999.99,
+      "discount": 10,
+      "tax": 8
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "description": "One of the best Android smartphones with 120Hz display, 5G, and Exynos 2100 chip",
+      "price": 799.99,
+      "discount": 5,
+      "tax": 8
+    },
+    {
+      "name": "Microsoft Surface Laptop 4",
+      "description": "A sleek and lightweight laptop with 11th Gen Intel Core processors and up to 19 hours of battery life",
+      "price": 1299.99,
+      "discount": 20,
+      "tax": 10
+    },
+    {
+      "name": "Dell XPS 13",
+      "description": "An ultraportable laptop with 11th Gen Intel Core processors and a stunning 13.3-inch display",
+      "price": 1199.99,
+      "discount": 15,
+      "tax": 10
+    },
+    {
+      "name": "Sony PlayStation 5",
+      "description": "The latest gaming console from Sony with lightning-fast load times and immersive gaming experience",
+      "price": 499.99,
+      "discount": 5,
+      "tax": 8
+    },
+    {
+      "name": "Xbox Series X",
+      "description": "The next-gen gaming console from Microsoft with 4K gaming and ray tracing",
+      "price": 599.99,
+      "discount": 10,
+      "tax": 8
+    },
+    {
+      "name": "Apple MacBook Pro",
+      "description": "A powerful laptop with M1 chip, Retina display, and up to 20 hours of battery life",
+      "price": 1499.99,
+      "discount": 15,
+      "tax": 10
+    },
+    {
+      "name": "HP Spectre x360",
+      "description": "A convertible laptop with 11th Gen Intel Core processors and up to 17 hours of battery life",
+      "price": 1299.99,
+      "discount": 10,
+      "tax": 10
+    },
+    {
+      "name": "Google Pixel 6",
+      "description": "The latest smartphone from Google with Tensor chip, 5G, and advanced camera system",
+      "price": 699.99,
+      "discount": 5,
+      "tax": 8
+    },
+    {
+      "name": "Amazon Echo (4th Gen)",
+      "description": "A smart speaker with Alexa voice assistant and premium sound",
+      "price": 99.99,
+      "discount": 5,
+      "tax": 8
+    }
+  ]
+}
